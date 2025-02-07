@@ -16,16 +16,11 @@ Database: MySQL<br>
 Installation
 To run the project locally:
 
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/MediConnect.git
-Navigate to the project folder:
-bash
-Copy
-Edit
-cd MediConnect
+Clone the repository:<br>
+git clone https://github.com/SoniaKumari79687/Healthcare.git
+
+Navigate to the project folder:<br>
+cd healthcare
 Set up a local server (e.g., XAMPP or WAMP) and configure the database.
 
 Import the database from database/mediconnect.sql.
